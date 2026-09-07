@@ -1,0 +1,8 @@
+{
+  "name":"student-management-frontend-designed",
+  "private":true,
+  "version":"1.0.0",
+  "type":"module",
+  "scripts":{"dev":"vite","build":"vite"},
+  "dependencies":{"vite":"latest","react":"latest","react-dom":"latest","@vitejs/plugin-react":"latest"}
+}

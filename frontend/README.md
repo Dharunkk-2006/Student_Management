@@ -1,1 +1,1 @@
-
+Run npm install, then npm run dev. Backend must run at http://localhost:8080/api/students
